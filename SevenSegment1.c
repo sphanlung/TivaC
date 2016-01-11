@@ -51,9 +51,9 @@ int main(void){
     // State machine
 	switch(state) {
 			case s0: 
-				GPIO_PORTB_DATA_R = n0;
-				state = s1;
-				Delay2();
+				GPIO_PORTB_DATA_R = n0; // Assign value in n0 to output pins 
+				state = s1;		// Set next state
+				Delay2();		// Wait 0.5 seconds
 				break;
 			case s1: 
 				GPIO_PORTB_DATA_R = n1;
