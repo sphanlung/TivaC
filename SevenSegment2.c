@@ -143,8 +143,8 @@ void Display(int digit, int number){
 
 // Splits number in counter into 4 separate numbers for each digit
 void NumSplit(int counted){
-	  digit1 = counted%10;
-    counted /= 10;
+	digit1 = counted%10;	//Copies value in counter, divides it by 10 and then keeps remainder
+    counted /= 10;	//Dividing value in counter by 10 shifts it by one decimal
     digit2 = counted%10;
     counted /= 10;
     digit3 = counted%10;
