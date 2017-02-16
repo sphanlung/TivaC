@@ -2,7 +2,7 @@
 // Name:   		LedBlink.c
 //
 // Author: 		Sergio PL                                                                 
-//         		http://github.com/MrPotati/                                               
+//         		http://github.com/sphanlung/                                               
 //
 // Device: 		LM4F120/TM4C123, Tiva C Series microcontroller                 
 //
