@@ -2,7 +2,7 @@
 // Name:   		SevenSegment1.c
 //
 // Author: 		Sergio PL                                                                 
-//         		http://github.com/MrPotati/      http://idielectronica.blogspot.com/                                              
+//         		http://github.com/sphanlung/      http://idielectronica.blogspot.com/                                              
 //
 // Device: 		LM4F120/TM4C123, Tiva C Series microcontroller                 
 //
